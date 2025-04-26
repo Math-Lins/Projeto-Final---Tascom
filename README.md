@@ -1,5 +1,3 @@
-# Projeto-Final---Tascom
-
 # 👾 Jogo do Marciano 👾
 
 Um jogo simples de adivinhação feito em TypeScript. O objetivo é encontrar onde o pequeno marciano está escondido escolhendo um número dentro de um intervalo referente a dificuldade escolhida.
@@ -24,3 +22,4 @@ Um jogo simples de adivinhação feito em TypeScript. O objetivo é encontrar on
 npm run dev
 
 
+Divirta-se tentando impedir a invasão alienígena! 👽
