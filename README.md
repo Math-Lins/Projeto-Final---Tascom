@@ -24,4 +24,3 @@ Um jogo simples de adivinhação feito em TypeScript. O objetivo é encontrar on
 npm run dev
 
 
-Divirta-se tentando impedir a invasão alienígena! 👽
